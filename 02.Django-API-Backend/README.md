@@ -1,1 +1,1 @@
-# Django-API Backend with including smart features
+# Django-API Backend 
