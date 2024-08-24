@@ -1,0 +1,71 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Compiled C extensions
+*.so
+*.pyd
+*.dll
+*.pyo
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+db.sqlite3
+
+# Environment variables
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pyzw
+__pycache__
+
+# Bytecode directories
+__pycache__/
+
+# macOS
+.DS_Store
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Project-specific files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
