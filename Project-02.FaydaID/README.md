@@ -74,4 +74,19 @@ To set up the FaydaID project for development:
 7.  **Edit Profile**: You can edit your profile information later, which requires authenticating the changes via your connected wallet and results in a new on-chain transaction.
 8.  **AI Assistant**: Interact with the AI chatbot for help navigating the platform.
 
+<table>
+  <tr>
+    <td><img src="zshots/1.PNG" width="300"/></td>
+    <td><img src="zshots/2.PNG" width="300"/></td>
+    <td><img src="zshots/3.PNG" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="zshots/4.PNG" width="300"/></td>
+    <td><img src="zshots/5.PNG" width="300"/></td>
+    <td><img src="zshots/6.PNG" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="zshots/7.PNG" width="300"/></td>
+  </tr>
+</table>
 
